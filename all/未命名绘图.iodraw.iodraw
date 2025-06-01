@@ -4,14 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OZHsB7qPNoO-11xoV1iz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZHsB7qPNoO-11xoV1iz-2" target="OZHsB7qPNoO-11xoV1iz-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OZHsB7qPNoO-11xoV1iz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZHsB7qPNoO-11xoV1iz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OZHsB7qPNoO-11xoV1iz-2" value="PC点击烧录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OZHsB7qPNoO-11xoV1iz-5" value="esp32检测是否烧录成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
