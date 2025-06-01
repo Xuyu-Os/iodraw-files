@@ -10,7 +10,7 @@
         <mxCell id="OZHsB7qPNoO-11xoV1iz-2" value="PC点击烧录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZHsB7qPNoO-11xoV1iz-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZHsB7qPNoO-11xoV1iz-5" value="工装检测是否烧录成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
