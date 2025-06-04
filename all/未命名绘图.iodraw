@@ -25,7 +25,7 @@
         <mxCell id="twiTyzeS0wonDM98yqmP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="twiTyzeS0wonDM98yqmP-5" target="twiTyzeS0wonDM98yqmP-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="twiTyzeS0wonDM98yqmP-5" value="工装与ESP32通讯获取ESP32和STM32的烧录情况" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="twiTyzeS0wonDM98yqmP-5" value="工装与ESP32通讯获取ESP32和STM32各个外设的信息进行错误检测，将错误信息上传到PC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
