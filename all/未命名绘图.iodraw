@@ -10,7 +10,10 @@
         <mxCell id="OZHsB7qPNoO-11xoV1iz-2" value="PC点击烧录&lt;div&gt;开始烧录&lt;/div&gt;&lt;div&gt;烧录完成给工装发送信号检测是否烧录成功&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OZHsB7qPNoO-11xoV1iz-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="twiTyzeS0wonDM98yqmP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZHsB7qPNoO-11xoV1iz-7" target="OZHsB7qPNoO-11xoV1iz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OZHsB7qPNoO-11xoV1iz-7" value="工装与ESP32通讯获取ESP32和STM32的烧录情况" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
