@@ -33,7 +33,7 @@
         <mxCell id="lodcjCZf_dBWDM1FHRA6-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GbomHfd9Cjs53C5o_UfR-1" target="lodcjCZf_dBWDM1FHRA6-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GbomHfd9Cjs53C5o_UfR-1" value="ESP32-C3&lt;div&gt;主控制器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GbomHfd9Cjs53C5o_UfR-1" value="ESP32-C3&lt;div&gt;主控制器&lt;br&gt;WiFi使用板载天线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="120" height="270" as="geometry" />
         </mxCell>
         <mxCell id="GbomHfd9Cjs53C5o_UfR-2" value="ML307DL&lt;br&gt;4G模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
