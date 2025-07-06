@@ -49,6 +49,9 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-14" value="LR4056B-E(1A)&lt;br&gt;5V&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1A&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
