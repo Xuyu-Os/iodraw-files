@@ -48,7 +48,7 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-10" value="电机驱动&lt;div&gt;2.8A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-12" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-12" value="MG6228N3B-33&lt;div&gt;LDO&lt;/div&gt;&lt;div&gt;5-&amp;gt;3.3V&lt;/div&gt;&lt;div&gt;500mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gGnWROKsOvo9KSMvvFWS-15" target="gGnWROKsOvo9KSMvvFWS-14">
