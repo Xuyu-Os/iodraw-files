@@ -154,8 +154,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-39" value="NS4150B&lt;div&gt;MAX 0.8A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-39" value="CI13241&lt;div&gt;90mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
