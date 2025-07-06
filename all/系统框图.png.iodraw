@@ -151,6 +151,17 @@
         <mxCell id="LXqw3VvSfmzTbpBughNQ-3" value="麦克风" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-5" target="GbomHfd9Cjs53C5o_UfR-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="370" />
+              <mxPoint x="440" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-5" value="按键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
