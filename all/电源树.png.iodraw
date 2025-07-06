@@ -95,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-26" value="INA180A2IDBVR&lt;div&gt;260uA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-26" value="INA180A2IDBVR&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MAX&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;260uA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gGnWROKsOvo9KSMvvFWS-4">
@@ -107,10 +107,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-28" value="ESP32-C3&lt;div&gt;200mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-28" value="ESP32-C3&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MAX&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;200mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-30" value="25Q64-TD&lt;div&gt;20mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-30" value="25Q64-TD&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MAX&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;20mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-32" value="CW32L010F8P6&lt;div&gt;5mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
