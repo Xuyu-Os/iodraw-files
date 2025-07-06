@@ -136,14 +136,15 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-35" value="CW32L010F8P6" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.019;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gGnWROKsOvo9KSMvvFWS-35">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.528;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gGnWROKsOvo9KSMvvFWS-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="612" y="310" as="sourcePoint" />
             <mxPoint x="700" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="660" y="310" />
               <mxPoint x="660" y="450" />
-              <mxPoint x="688" y="450" />
+              <mxPoint x="690" y="450" />
+              <mxPoint x="690" y="452" />
             </Array>
           </mxGeometry>
         </mxCell>
