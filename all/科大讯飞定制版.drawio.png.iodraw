@@ -50,7 +50,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lodcjCZf_dBWDM1FHRA6-11" target="lodcjCZf_dBWDM1FHRA6-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="420" />
+              <mxPoint x="810" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-11" value="CW32L010F8P6&lt;br&gt;协助控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="370" width="120" height="100" as="geometry" />
