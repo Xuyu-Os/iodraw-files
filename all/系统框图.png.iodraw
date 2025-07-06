@@ -162,6 +162,9 @@
         <mxCell id="LXqw3VvSfmzTbpBughNQ-5" value="按键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="350" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-7" value="ADC1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
