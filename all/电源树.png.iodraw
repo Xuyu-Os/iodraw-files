@@ -184,7 +184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-44" value="矩阵RGB&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MAX&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;72mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-44" value="矩阵RGB&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MAX&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;144&lt;/span&gt;mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gGnWROKsOvo9KSMvvFWS-44">
