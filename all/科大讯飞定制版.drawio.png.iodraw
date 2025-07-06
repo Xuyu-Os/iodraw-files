@@ -36,9 +36,6 @@
         <mxCell id="GbomHfd9Cjs53C5o_UfR-2" value="ML307DL&lt;br&gt;4G模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="200" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GbomHfd9Cjs53C5o_UfR-5" value="CI13241" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="370" width="120" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="GbomHfd9Cjs53C5o_UfR-11" value="ES&lt;span style=&quot;background-color: initial;&quot;&gt;8311&lt;/span&gt;&lt;div&gt;音频解码芯片&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="200" width="120" height="100" as="geometry" />
         </mxCell>
@@ -70,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-11" value="CW32L010F8P6&lt;br&gt;协助控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="711" y="550" width="120" height="100" as="geometry" />
+          <mxGeometry x="840" y="580" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-12" value="直流电机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="550" width="70" height="30" as="geometry" />
@@ -90,6 +87,9 @@
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-15" value="表情指示灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="585" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-16" value="CI13241" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="370" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
