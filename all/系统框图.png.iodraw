@@ -40,7 +40,12 @@
           <mxGeometry x="660" y="200" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LXqw3VvSfmzTbpBughNQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GbomHfd9Cjs53C5o_UfR-11" target="LXqw3VvSfmzTbpBughNQ-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="280" />
+              <mxPoint x="260" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GbomHfd9Cjs53C5o_UfR-11" value="ES&lt;span style=&quot;background-color: initial;&quot;&gt;8311&lt;/span&gt;&lt;div&gt;音频解码芯片&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="200" width="120" height="100" as="geometry" />
@@ -133,7 +138,10 @@
           <mxGeometry x="640" y="500" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LXqw3VvSfmzTbpBughNQ-1" value="扬声器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-3" value="扬声器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
