@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-22" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-27" value="4个IIC扩展口" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="90" width="120" height="60" as="geometry" />
