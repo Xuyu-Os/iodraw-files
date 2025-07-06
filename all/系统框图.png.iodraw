@@ -97,16 +97,16 @@
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lodcjCZf_dBWDM1FHRA6-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="520.0000000000001" as="targetPoint" />
+            <mxPoint x="250" y="620.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lodcjCZf_dBWDM1FHRA6-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="409.9999999999999" as="targetPoint" />
+            <mxPoint x="110" y="509.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-22" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-27" value="4个IIC扩展口" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="90" width="120" height="60" as="geometry" />
