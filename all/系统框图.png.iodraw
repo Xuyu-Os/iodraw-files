@@ -138,8 +138,15 @@
         <mxCell id="LXqw3VvSfmzTbpBughNQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-3" target="lodcjCZf_dBWDM1FHRA6-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXqw3VvSfmzTbpBughNQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-3" target="LXqw3VvSfmzTbpBughNQ-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="405" />
+              <mxPoint x="250" y="405" />
+              <mxPoint x="250" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LXqw3VvSfmzTbpBughNQ-3" value="麦克风" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="430" width="80" height="40" as="geometry" />
