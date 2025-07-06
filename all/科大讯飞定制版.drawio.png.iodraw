@@ -52,44 +52,44 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lodcjCZf_dBWDM1FHRA6-4" target="lodcjCZf_dBWDM1FHRA6-5">
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lodcjCZf_dBWDM1FHRA6-11" target="lodcjCZf_dBWDM1FHRA6-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="248" y="390" as="targetPoint" />
+            <mxPoint x="680" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="258" y="385" />
-              <mxPoint x="258" y="385" />
+              <mxPoint x="690" y="565" />
+              <mxPoint x="690" y="565" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lodcjCZf_dBWDM1FHRA6-4" target="lodcjCZf_dBWDM1FHRA6-6">
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lodcjCZf_dBWDM1FHRA6-11" target="lodcjCZf_dBWDM1FHRA6-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="268" y="455" />
-              <mxPoint x="268" y="455" />
+              <mxPoint x="700" y="635" />
+              <mxPoint x="700" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-4" value="CW32L010F8P6&lt;br&gt;协助控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="370" width="120" height="100" as="geometry" />
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-11" value="CW32L010F8P6&lt;br&gt;协助控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="711" y="550" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-5" value="直流电机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="168" y="370" width="70" height="30" as="geometry" />
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-12" value="直流电机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="550" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-6" value="点亮指示灯（绿色LED）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="168" y="440" width="70" height="30" as="geometry" />
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-13" value="点亮指示灯（绿色LED）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lodcjCZf_dBWDM1FHRA6-8">
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lodcjCZf_dBWDM1FHRA6-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="278" y="420" as="sourcePoint" />
-            <mxPoint x="248" y="425" as="targetPoint" />
+            <mxPoint x="710" y="600" as="sourcePoint" />
+            <mxPoint x="680" y="605" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="258" y="420" />
-              <mxPoint x="258" y="420" />
+              <mxPoint x="690" y="600" />
+              <mxPoint x="690" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-8" value="表情指示灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="168" y="405" width="70" height="30" as="geometry" />
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-15" value="表情指示灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="585" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
