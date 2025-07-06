@@ -103,16 +103,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lodcjCZf_dBWDM1FHRA6-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="520.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lodcjCZf_dBWDM1FHRA6-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="409.9999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-22" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -145,16 +135,8 @@
         <mxCell id="LXqw3VvSfmzTbpBughNQ-1" value="音频功率放大" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LXqw3VvSfmzTbpBughNQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-3" target="GbomHfd9Cjs53C5o_UfR-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="220" />
-              <mxPoint x="260" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LXqw3VvSfmzTbpBughNQ-3" value="麦克风" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="140" y="435" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LXqw3VvSfmzTbpBughNQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-5" target="GbomHfd9Cjs53C5o_UfR-1">
           <mxGeometry relative="1" as="geometry">
