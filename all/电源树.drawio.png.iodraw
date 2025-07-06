@@ -19,18 +19,18 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-4" value="MT3608L&lt;div&gt;DC-DC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-5" value="单节18650" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gGnWROKsOvo9KSMvvFWS-1" target="gGnWROKsOvo9KSMvvFWS-5">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gGnWROKsOvo9KSMvvFWS-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="270" as="sourcePoint" />
-            <mxPoint x="320" y="300" as="targetPoint" />
+            <mxPoint x="290" y="310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="250" y="270" />
               <mxPoint x="250" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-8" value="MT3608L&lt;div&gt;DC-DC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
