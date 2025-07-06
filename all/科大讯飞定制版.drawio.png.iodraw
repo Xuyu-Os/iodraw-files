@@ -72,6 +72,16 @@
         <mxCell id="lodcjCZf_dBWDM1FHRA6-16" value="CI13241" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="370" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="384.8" as="sourcePoint" />
+            <mxPoint x="820" y="384.8" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="384.8" />
+              <mxPoint x="810" y="384.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
