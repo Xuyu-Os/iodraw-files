@@ -24,8 +24,7 @@
         <mxCell id="GbomHfd9Cjs53C5o_UfR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="GbomHfd9Cjs53C5o_UfR-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="420" />
-              <mxPoint x="440" y="420" />
+              <mxPoint x="399" y="450" />
             </Array>
             <mxPoint x="399" y="420" as="targetPoint" />
           </mxGeometry>
@@ -81,7 +80,7 @@
           <mxGeometry x="820" y="405" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-16" value="CI13241&lt;div&gt;语音自学习&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="279" y="370" width="120" height="100" as="geometry" />
+          <mxGeometry x="280" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
