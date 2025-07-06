@@ -118,13 +118,13 @@
           <mxGeometry x="590" y="390" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-31" value="I2C0&lt;div&gt;I2S&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="218" width="50" height="40" as="geometry" />
+          <mxGeometry x="400" y="210" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-32" value="I2C0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="160" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-34" value="UART0&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="395" width="60" height="40" as="geometry" />
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-34" value="UART01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
