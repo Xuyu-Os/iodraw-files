@@ -133,6 +133,9 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-34" value="NS4150B&lt;div&gt;MAX 0.8A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-35" value="CW32L010F8P6" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
