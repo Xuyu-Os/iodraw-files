@@ -66,7 +66,7 @@
         <mxCell id="lodcjCZf_dBWDM1FHRA6-13" value="点亮指示灯（绿色LED）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="440" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-15" value="表情指示灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-15" value="表情矩阵LED" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="405" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-16" value="CI13241&lt;div&gt;语音自学习&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
