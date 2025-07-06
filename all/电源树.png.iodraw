@@ -72,7 +72,7 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-20" value="MT3608L&lt;div&gt;DC-DC&lt;br&gt;&lt;div&gt;3.7-&amp;gt;5V&lt;/div&gt;&lt;div&gt;2.5A&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-21" value="NS4150B&lt;div&gt;MAX 0.8A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-21" value="NS4150B&lt;div&gt;MAX 1A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
