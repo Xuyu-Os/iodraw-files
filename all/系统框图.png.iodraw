@@ -74,7 +74,7 @@
         <mxCell id="lodcjCZf_dBWDM1FHRA6-12" value="直流电机" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="320" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-13" value="点亮指示灯（绿色LED）" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-13" value="电量指示灯（绿色LED）" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-15" value="表情矩阵LED" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -181,6 +181,9 @@
         </mxCell>
         <mxCell id="LXqw3VvSfmzTbpBughNQ-14" value="电机驱动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-16" target="lodcjCZf_dBWDM1FHRA6-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LXqw3VvSfmzTbpBughNQ-16" value="三级管控制电路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="405" width="70" height="30" as="geometry" />
