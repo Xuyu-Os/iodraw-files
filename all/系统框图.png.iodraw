@@ -74,8 +74,8 @@
         <mxCell id="lodcjCZf_dBWDM1FHRA6-12" value="直流电机" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="320" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lodcjCZf_dBWDM1FHRA6-13" value="电量指示灯（绿色LED）" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="820" y="440" width="70" height="30" as="geometry" />
+        <mxCell id="lodcjCZf_dBWDM1FHRA6-13" value="电量指示灯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="920" y="440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-15" value="表情矩阵LED" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="405" width="70" height="30" as="geometry" />
