@@ -140,7 +140,10 @@
         <mxCell id="LXqw3VvSfmzTbpBughNQ-1" value="扬声器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LXqw3VvSfmzTbpBughNQ-3" value="扬声器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-3" target="GbomHfd9Cjs53C5o_UfR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-3" value="麦克风" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
