@@ -188,6 +188,14 @@
         <mxCell id="LXqw3VvSfmzTbpBughNQ-16" value="三级管控制电路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="405" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-19" target="lodcjCZf_dBWDM1FHRA6-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXqw3VvSfmzTbpBughNQ-19" value="三级管控制电路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
