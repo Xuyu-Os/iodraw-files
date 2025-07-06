@@ -16,6 +16,9 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-1" value="单节18650" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gGnWROKsOvo9KSMvvFWS-4" target="gGnWROKsOvo9KSMvvFWS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-4" value="MT3608L&lt;div&gt;2.5A&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -28,6 +31,12 @@
               <mxPoint x="250" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-9" value="MT3608L&lt;div&gt;2.5A&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
