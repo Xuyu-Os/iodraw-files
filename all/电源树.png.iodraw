@@ -73,20 +73,21 @@
           <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-21" value="NS4150B&lt;div&gt;MAX 0.8A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gGnWROKsOvo9KSMvvFWS-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="340" as="sourcePoint" />
             <mxPoint x="490" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="510" />
               <mxPoint x="480" y="510" />
+              <mxPoint x="480" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-25" value="NS4150B&lt;div&gt;MAX 0.8A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-26" value="INA180A2IDBVR&lt;div&gt;260uA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
