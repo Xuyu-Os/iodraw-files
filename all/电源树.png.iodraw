@@ -203,7 +203,7 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-46" value="ML307R-DL&lt;div&gt;MAX 2A&lt;br&gt;待机 12.8mA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="690" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-48" value="版本：V1.0&lt;div&gt;最后修改时间：2025-07-10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-48" value="版本：V1.1&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最后修改时间：2025-07-10&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="615" y="793" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
