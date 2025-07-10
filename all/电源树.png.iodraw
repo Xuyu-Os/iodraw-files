@@ -83,7 +83,7 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-20" value="MT3608L&lt;div&gt;DC-DC&lt;br&gt;&lt;div&gt;3.7-&amp;gt;5V&lt;/div&gt;&lt;div&gt;2.5A&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-21" value="NS4150B&lt;div style=&quot;text-align: left;&quot;&gt;MAX 0.65A&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;MIN 10uA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-21" value="NS4150B&lt;div style=&quot;&quot;&gt;MAX 0.65A&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;MIN 10uA&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
