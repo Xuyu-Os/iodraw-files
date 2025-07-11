@@ -73,7 +73,7 @@
           <mxGeometry x="920" y="405" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-16" value="CI13241&lt;div&gt;唤醒词学习&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lodcjCZf_dBWDM1FHRA6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -223,7 +223,7 @@
           <mxGeometry x="770" y="360" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LA8TPoqHtIpcq7VWpMhm-3" value="麦克风" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LA8TPoqHtIpcq7VWpMhm-4" value="ADC2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="345" width="60" height="30" as="geometry" />
