@@ -151,6 +151,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LA8TPoqHtIpcq7VWpMhm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LXqw3VvSfmzTbpBughNQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LXqw3VvSfmzTbpBughNQ-3" value="麦克风" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="430" width="80" height="40" as="geometry" />
         </mxCell>
