@@ -242,8 +242,8 @@
         <mxCell id="LA8TPoqHtIpcq7VWpMhm-7" value="ADC3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="425" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LA8TPoqHtIpcq7VWpMhm-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="765" y="398" width="50" height="30" as="geometry" />
+        <mxCell id="LA8TPoqHtIpcq7VWpMhm-8" value="GPIO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="395" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
