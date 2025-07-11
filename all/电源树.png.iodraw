@@ -212,6 +212,9 @@
         <mxCell id="AAetdgc4tam4GvBmRMd1-3" value="确认功耗、更改供电方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="15" y="165" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AAetdgc4tam4GvBmRMd1-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="548" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
