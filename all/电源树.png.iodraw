@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="l9WyNDH7hevCbzJrwOi6">
-    <mxGraphModel dx="1226" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" parent="1" source="gGnWROKsOvo9KSMvvFWS-40" target="gGnWROKsOvo9KSMvvFWS-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gGnWROKsOvo9KSMvvFWS-40" value="HM8089&lt;div&gt;5V-3.8V&lt;/div&gt;&lt;div&gt;2.5A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" parent="1" vertex="1">
+        <mxCell id="gGnWROKsOvo9KSMvvFWS-40" value="HM8089&lt;div&gt;5V-&amp;gt;3.8V&lt;/div&gt;&lt;div&gt;2.5A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gGnWROKsOvo9KSMvvFWS-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;align=center;" parent="1" source="gGnWROKsOvo9KSMvvFWS-20" target="gGnWROKsOvo9KSMvvFWS-40" edge="1">
@@ -203,16 +203,16 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-48" value="版本：V1.1&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最后修改时间：2025-07-10&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="615" y="793" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AAetdgc4tam4GvBmRMd1-1" value="更换更高功率电源？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AAetdgc4tam4GvBmRMd1-1" value="更换更高功率电源？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="350" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AAetdgc4tam4GvBmRMd1-2" value="确认语音通讯最大电流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AAetdgc4tam4GvBmRMd1-2" value="确认语音通讯最大电流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="680" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AAetdgc4tam4GvBmRMd1-3" value="确认功耗、更改供电方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="AAetdgc4tam4GvBmRMd1-3" value="确认功耗、更改供电方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="15" y="165" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AAetdgc4tam4GvBmRMd1-4" value="确认实际数据、更高倍率电池、考虑双电池（优先）、" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AAetdgc4tam4GvBmRMd1-4" value="确认实际数据、更高倍率电池、考虑双电池（优先）、" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="15" y="560" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
