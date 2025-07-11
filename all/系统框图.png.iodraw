@@ -222,6 +222,9 @@
         <mxCell id="LXqw3VvSfmzTbpBughNQ-32" value="PWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="360" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LA8TPoqHtIpcq7VWpMhm-3" value="麦克风" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
