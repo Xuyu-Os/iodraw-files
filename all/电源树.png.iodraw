@@ -209,8 +209,8 @@
         <mxCell id="AAetdgc4tam4GvBmRMd1-2" value="确认语音通讯最大电流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="680" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AAetdgc4tam4GvBmRMd1-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="135" y="38" width="50" height="30" as="geometry" />
+        <mxCell id="AAetdgc4tam4GvBmRMd1-3" value="确认功耗、更改供电方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="38" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
