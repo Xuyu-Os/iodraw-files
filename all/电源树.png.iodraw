@@ -206,7 +206,7 @@
         <mxCell id="0OWHqBybESEGTGjQQ6Ze-1" value="按照规格书计算&lt;div&gt;瞬时最大 2.48，&lt;/div&gt;&lt;div&gt;实测4G模块联网待机100mA&lt;/div&gt;&lt;div&gt;以内&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0OWHqBybESEGTGjQQ6Ze-2" value="电池最大持续放电4A&lt;div&gt;瞬间放电支持7A以上&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="0OWHqBybESEGTGjQQ6Ze-2" value="电池最大持续放电4A&lt;div&gt;瞬间放电支持7A以上&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="95" y="190" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
