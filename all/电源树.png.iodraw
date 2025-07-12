@@ -203,8 +203,8 @@
         <mxCell id="gGnWROKsOvo9KSMvvFWS-48" value="版本：V1.2&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最后修改时间：2025-07-12&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="615" y="793" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0OWHqBybESEGTGjQQ6Ze-1" value="按照规格书计算瞬时最大 2.48" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="350" width="180" height="30" as="geometry" />
+        <mxCell id="0OWHqBybESEGTGjQQ6Ze-1" value="按照规格书计算&lt;div&gt;瞬时最大 2.48&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="345" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
