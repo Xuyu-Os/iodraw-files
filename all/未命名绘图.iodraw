@@ -56,8 +56,8 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-21" value="发生错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-25" value="发生错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="QXIg445MYGPyg4WuxM-h-25" value="进入硬件错误中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
