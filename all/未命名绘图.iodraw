@@ -48,8 +48,16 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-19" value="系统上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QXIg445MYGPyg4WuxM-h-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXIg445MYGPyg4WuxM-h-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QXIg445MYGPyg4WuxM-h-21" value="发生错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXIg445MYGPyg4WuxM-h-25" value="发生错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
