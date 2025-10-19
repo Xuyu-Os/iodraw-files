@@ -71,7 +71,7 @@
           <mxGeometry x="435" y="60" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QXIg445MYGPyg4WuxM-h-41" value="系统上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
