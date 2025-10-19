@@ -62,8 +62,8 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-26" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-28" value="CW32共有两部分程序&lt;div&gt;1.进行OTA的引导程序&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="295" width="140" height="40" as="geometry" />
+        <mxCell id="QXIg445MYGPyg4WuxM-h-28" value="CW32共有两部分程序&lt;div&gt;1.进行OTA升级的引导程序&lt;/div&gt;&lt;div&gt;2.用户程序&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="285" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
