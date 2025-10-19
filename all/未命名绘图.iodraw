@@ -24,7 +24,7 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXIg445MYGPyg4WuxM-h-5" target="QXIg445MYGPyg4WuxM-h-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-5" value="排查问题：固件Bootloader校验异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QXIg445MYGPyg4WuxM-h-5" value="排查问题：固件BootLoader校验异常" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QXIg445MYGPyg4WuxM-h-9" value="具体原因请看文档1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
