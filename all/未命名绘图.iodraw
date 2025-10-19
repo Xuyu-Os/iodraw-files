@@ -65,14 +65,14 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-28" value="CW32共有两部分程序&lt;div&gt;1.进行OTA升级的引导程序（bootloader）&lt;/div&gt;&lt;div&gt;2.用户程序&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-420" y="80" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXIg445MYGPyg4WuxM-h-29" target="QXIg445MYGPyg4WuxM-h-30">
+        <mxCell id="QXIg445MYGPyg4WuxM-h-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXIg445MYGPyg4WuxM-h-29" target="QXIg445MYGPyg4WuxM-h-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QXIg445MYGPyg4WuxM-h-29" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="QXIg445MYGPyg4WuxM-h-32" value="是否升级" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
