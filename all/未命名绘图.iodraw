@@ -18,14 +18,13 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-4" value="发现死机现象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXIg445MYGPyg4WuxM-h-5" target="QXIg445MYGPyg4WuxM-h-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QXIg445MYGPyg4WuxM-h-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXIg445MYGPyg4WuxM-h-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="389.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QXIg445MYGPyg4WuxM-h-5" value="排查问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
