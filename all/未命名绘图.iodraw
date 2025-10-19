@@ -30,7 +30,7 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-9" value="具体原因请看文档1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QXIg445MYGPyg4WuxM-h-11" value="最终计划进行一次BootLoader升级" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
