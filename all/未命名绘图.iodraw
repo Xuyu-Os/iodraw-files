@@ -79,6 +79,9 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-32" value="是否升级" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="310" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QXIg445MYGPyg4WuxM-h-36" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="398" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
