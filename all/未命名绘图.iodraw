@@ -70,10 +70,8 @@
         <mxCell id="QXIg445MYGPyg4WuxM-h-40" value="第一次升级流程&lt;div&gt;升级前boot版本为1.0.0&lt;/div&gt;&lt;div&gt;升级后boot版本为1.0.4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="-15" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXIg445MYGPyg4WuxM-h-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489.99999999999955" y="340" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="QXIg445MYGPyg4WuxM-h-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QXIg445MYGPyg4WuxM-h-41" target="QXIg445MYGPyg4WuxM-h-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QXIg445MYGPyg4WuxM-h-41" value="系统上电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="220" width="120" height="60" as="geometry" />
@@ -85,6 +83,9 @@
         </mxCell>
         <mxCell id="QXIg445MYGPyg4WuxM-h-44" value="将携带1.0.4的用户程序烧录到地址0x2800" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QXIg445MYGPyg4WuxM-h-46" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;1.0.0判断&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;需要升级&lt;/div&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
