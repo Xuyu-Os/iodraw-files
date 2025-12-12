@@ -1,91 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="Weh51x4oK_fBZdTh9y13">
-    <mxGraphModel dx="2316" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="wHnaPUUqNUdYuUQJzqhM">
+    <mxGraphModel dx="1042" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QXIg445MYGPyg4WuxM-h-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-1" value="第一批生产" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="70" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-4" target="QXIg445MYGPyg4WuxM-h-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-4" value="发现死机现象" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-5" target="QXIg445MYGPyg4WuxM-h-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-5" value="排查问题：BootLoader固件异常" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-11" value="最终计划进行一次BootLoader升级" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-13" target="QXIg445MYGPyg4WuxM-h-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-13" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-19" target="QXIg445MYGPyg4WuxM-h-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-19" value="系统上电" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-21" value="发生错误" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-25" target="QXIg445MYGPyg4WuxM-h-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-25" value="进入硬件错误中断" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-26" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-28" value="CW32共有两部分程序&lt;div&gt;1.进行OTA升级的引导程序（bootloader）&lt;/div&gt;&lt;div&gt;2.用户程序&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="80" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-37" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-40" value="第一次升级流程&lt;div&gt;升级前boot版本为1.0.0&lt;/div&gt;&lt;div&gt;升级后boot版本为1.0.4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="415" y="-15" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QXIg445MYGPyg4WuxM-h-41" target="QXIg445MYGPyg4WuxM-h-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-41" value="系统上电" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="QXIg445MYGPyg4WuxM-h-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489.99999999999955" y="420" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-44" value="将携带1.0.4的用户程序烧录到地址0x2800" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QXIg445MYGPyg4WuxM-h-46" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;1.0.0boot判断&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;需要进行固件升级&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="350" width="160" height="80" as="geometry" />
+        <mxCell id="c3oVExPTs4Jv5OlMC5CC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
