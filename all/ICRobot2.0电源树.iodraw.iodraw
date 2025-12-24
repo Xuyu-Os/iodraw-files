@@ -72,6 +72,9 @@
         <mxCell id="PJblSN_0h-ppIkANq7G9-23" value="YX017A-HL8D V1.01" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PJblSN_0h-ppIkANq7G9-25" value="YX017A-HL8D V1.01" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
