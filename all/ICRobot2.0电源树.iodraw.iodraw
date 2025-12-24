@@ -46,6 +46,9 @@
         <mxCell id="PJblSN_0h-ppIkANq7G9-13" value="拓展端口*4" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="125" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PJblSN_0h-ppIkANq7G9-15" value="拓展端口*4" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
