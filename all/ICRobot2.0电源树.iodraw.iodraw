@@ -19,7 +19,7 @@
         <mxCell id="PJblSN_0h-ppIkANq7G9-1" value="TPS54627DDAR&lt;div&gt;DC-DC&lt;br&gt;7.4V-&amp;gt;5V&lt;br&gt;6A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PJblSN_0h-ppIkANq7G9-3" value="TPS54627DDAR&lt;div&gt;DC-DC&lt;br&gt;7.4V-&amp;gt;5V&lt;br&gt;6A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="PJblSN_0h-ppIkANq7G9-3" value="TPS563201DDCR&lt;div&gt;DC-DC&lt;br&gt;7.4V-&amp;gt;5V&lt;br&gt;3A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
