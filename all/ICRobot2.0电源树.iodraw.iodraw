@@ -16,13 +16,10 @@
             <mxPoint x="250" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJblSN_0h-ppIkANq7G9-1" value="TPS54627DDAR&lt;div&gt;DC-DC&lt;br&gt;7.4V-&amp;gt;5V&lt;br&gt;6A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="PJblSN_0h-ppIkANq7G9-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3oVExPTs4Jv5OlMC5CC-1" target="PJblSN_0h-ppIkANq7G9-1">
+        <mxCell id="PJblSN_0h-ppIkANq7G9-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3oVExPTs4Jv5OlMC5CC-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="280" as="sourcePoint" />
-            <mxPoint x="390" y="230" as="targetPoint" />
+            <mxPoint x="220" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PJblSN_0h-ppIkANq7G9-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -37,8 +34,11 @@
             <mxPoint x="230" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJblSN_0h-ppIkANq7G9-8" value="TPS563201DDCR&lt;div&gt;DC-DC&lt;br&gt;7.4V-&amp;gt;5V&lt;br&gt;3A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="300" width="120" height="70" as="geometry" />
+        <mxCell id="PJblSN_0h-ppIkANq7G9-9" value="TPS563201DDCR&lt;div&gt;DC-DC&lt;br&gt;7.4V-&amp;gt;5V&lt;br&gt;3A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PJblSN_0h-ppIkANq7G9-10" value="TPS54627DDAR&lt;div&gt;DC-DC&lt;br&gt;7.4V-&amp;gt;5V&lt;br&gt;6A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
