@@ -69,15 +69,6 @@
             <mxPoint x="430" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJblSN_0h-ppIkANq7G9-20" value="RT9043GB&lt;div&gt;5V-&amp;gt;3.3V&lt;br&gt;3A&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="385" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PJblSN_0h-ppIkANq7G9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJblSN_0h-ppIkANq7G9-9" target="PJblSN_0h-ppIkANq7G9-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="345" as="sourcePoint" />
-            <mxPoint x="430" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
