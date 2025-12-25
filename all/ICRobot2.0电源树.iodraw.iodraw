@@ -93,23 +93,20 @@
         <mxCell id="yMiXqwak_0i7YdugXOoL-4" value="NS4150B&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-8" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="770" width="480" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-2" value="ESP32-S3&lt;div&gt;MCU3.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="yMiXqwak_0i7YdugXOoL-8">
-          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="yMiXqwak_0i7YdugXOoL-2" value="ESP32-S3&lt;div&gt;MCU3.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-3" value="ES8311&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yMiXqwak_0i7YdugXOoL-8">
-          <mxGeometry x="180" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="yMiXqwak_0i7YdugXOoL-3" value="ES8311&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-5" value="OV2640&lt;br&gt;VCC3.3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yMiXqwak_0i7YdugXOoL-8">
-          <mxGeometry x="20" y="100" width="440" height="150" as="geometry" />
+        <mxCell id="yMiXqwak_0i7YdugXOoL-5" value="OV2640&lt;br&gt;VCC3.3" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="870" width="440" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-6" value="无线麦克风" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yMiXqwak_0i7YdugXOoL-8">
-          <mxGeometry x="330" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="700" width="480" height="270" as="geometry" />
+        <mxCell id="yMiXqwak_0i7YdugXOoL-6" value="无线麦克风" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
