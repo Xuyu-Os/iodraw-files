@@ -99,10 +99,10 @@
         <mxCell id="yMiXqwak_0i7YdugXOoL-3" value="ES8311&lt;div&gt;3.3v&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-4" value="NS4150B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-4" value="NS4150B&lt;div&gt;5v&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-5" value="OV2640" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-5" value="OV2640&lt;br&gt;VCC3.3v" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="870" width="440" height="150" as="geometry" />
         </mxCell>
       </root>
