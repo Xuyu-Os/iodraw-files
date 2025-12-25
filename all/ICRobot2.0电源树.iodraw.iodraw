@@ -129,8 +129,8 @@
         <mxCell id="yMiXqwak_0i7YdugXOoL-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1160" width="120" height="60" as="geometry" />
+        <mxCell id="yMiXqwak_0i7YdugXOoL-16" value="矩阵LED&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
