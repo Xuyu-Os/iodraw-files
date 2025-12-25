@@ -135,7 +135,7 @@
         <mxCell id="yMiXqwak_0i7YdugXOoL-17" value="YX017A&lt;div&gt;MCU3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-18" value="无线蓝牙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-18" value="蓝牙音频发射&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
