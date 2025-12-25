@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yMiXqwak_0i7YdugXOoL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1060" width="480" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="c3oVExPTs4Jv5OlMC5CC-1" value="7.4V锂电池" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -107,9 +110,6 @@
         </mxCell>
         <mxCell id="yMiXqwak_0i7YdugXOoL-6" value="无线麦克风接收&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1070" width="480" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
