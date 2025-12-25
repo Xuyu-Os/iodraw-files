@@ -111,6 +111,9 @@
         <mxCell id="yMiXqwak_0i7YdugXOoL-6" value="无线麦克风接收&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yMiXqwak_0i7YdugXOoL-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
