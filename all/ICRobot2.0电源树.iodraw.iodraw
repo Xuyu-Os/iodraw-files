@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yMiXqwak_0i7YdugXOoL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="1060" width="480" height="250" as="geometry" />
         </mxCell>
         <mxCell id="c3oVExPTs4Jv5OlMC5CC-1" value="7.4V锂电池" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -93,52 +93,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-4" value="NS4150B&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-4" value="NS4150B&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="690" width="480" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-2" value="ESP32-S3&lt;div&gt;MCU3.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-2" value="ESP32-S3&lt;div&gt;MCU3.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-3" value="ES8311&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-3" value="ES8311&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-5" value="OV2640&lt;br&gt;VCC3.3" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-5" value="OV2640&lt;br&gt;VCC3.3" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="870" width="440" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-6" value="无线麦克风接收&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-6" value="无线麦克风接收&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-10" value="STM32&lt;div&gt;MCU3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-10" value="STM32&lt;div&gt;MCU3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-11" value="WS2812&lt;div&gt;VBUS / VCC5V&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-11" value="WS2812&lt;div&gt;VBUS / VCC5V&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-12" value="光栅&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-12" value="光栅&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-13" value="电机驱动&lt;div&gt;6.5V&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-13" value="电机驱动&lt;div&gt;6.5V&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-14" value="巡线板&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-14" value="巡线板&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="1155" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-16" value="矩阵LED&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-16" value="矩阵LED&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-17" value="YX017A&lt;div&gt;MCU3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-17" value="YX017A&lt;div&gt;MCU3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-18" value="蓝牙音频发射&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-18" value="蓝牙音频发射&lt;div&gt;VCC5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yMiXqwak_0i7YdugXOoL-19" value="离线语音识别&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yMiXqwak_0i7YdugXOoL-19" value="离线语音识别&lt;div&gt;VCC3.3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
