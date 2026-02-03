@@ -26,11 +26,22 @@
         <mxCell id="L4IK1LMgPijzDiCKLkq9-7" value="蓝牙音响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L4IK1LMgPijzDiCKLkq9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L4IK1LMgPijzDiCKLkq9-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-9" value="无线麦克风发射模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L4IK1LMgPijzDiCKLkq9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L4IK1LMgPijzDiCKLkq9-10" target="L4IK1LMgPijzDiCKLkq9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-10" value="无线麦克风接收模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L4IK1LMgPijzDiCKLkq9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L4IK1LMgPijzDiCKLkq9-11" target="L4IK1LMgPijzDiCKLkq9-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-11" value="ICRobot系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
