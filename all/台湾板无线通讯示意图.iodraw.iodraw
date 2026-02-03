@@ -6,25 +6,25 @@
         <mxCell id="1" parent="0" />
         <mxCell id="L4IK1LMgPijzDiCKLkq9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L4IK1LMgPijzDiCKLkq9-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="330" as="targetPoint" />
+            <mxPoint x="340" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L4IK1LMgPijzDiCKLkq9-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="220" as="targetPoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-1" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="L4IK1LMgPijzDiCKLkq9-6" target="L4IK1LMgPijzDiCKLkq9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-6" value="蓝牙通讯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-7" value="蓝牙音响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L4IK1LMgPijzDiCKLkq9-9" value="无线麦克风发射模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="80" width="120" height="60" as="geometry" />
