@@ -166,12 +166,6 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-44" value="WS2812" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="778" y="912" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-46" target="jQ4vL1tOZWoRjpXtpa8U-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-46" value="驱动电流检测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="643" y="792" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-50" value="PWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="728" y="832" width="50" height="30" as="geometry" />
         </mxCell>
@@ -185,9 +179,6 @@
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-52" value="运算放大器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="238" y="902" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-53" value="ADC2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="678" y="817" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-54" value="ADC3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="353" y="897" width="60" height="30" as="geometry" />
