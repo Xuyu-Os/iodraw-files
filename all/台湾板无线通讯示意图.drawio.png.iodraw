@@ -42,13 +42,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-4">
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-4" target="jQ4vL1tOZWoRjpXtpa8U-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="388" y="862" />
               <mxPoint x="388" y="862" />
             </Array>
-            <mxPoint x="358" y="862.0000000000002" as="targetPoint" />
+            <mxPoint x="368" y="922" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-4" target="jQ4vL1tOZWoRjpXtpa8U-21">
@@ -57,13 +57,11 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-4" value="ESP32-C3&lt;div&gt;主控制器&lt;br&gt;40MHZ时钟&lt;br&gt;WiFi使用板载天线&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="672" width="120" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-6">
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="907.9999999999998" y="722" as="targetPoint" />
+            <mxPoint x="868" y="721.9999999999998" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-6" value="ML307DL&lt;br&gt;4G模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="748" y="672" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-8" target="jQ4vL1tOZWoRjpXtpa8U-29">
           <mxGeometry relative="1" as="geometry">
@@ -100,6 +98,9 @@
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-14" value="表情矩阵LED" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="878" y="877" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-15" value="CI13241&lt;div&gt;唤醒词学习&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="842" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -163,14 +164,13 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-29" value="音频功率放大" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="98" y="732" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-33">
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-33" target="jQ4vL1tOZWoRjpXtpa8U-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="138" y="872" />
               <mxPoint x="208" y="872" />
               <mxPoint x="208" y="862" />
             </Array>
-            <mxPoint x="238" y="861.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-33">
@@ -235,8 +235,10 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-46" value="驱动电流检测" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="643" y="792" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-49" target="jQ4vL1tOZWoRjpXtpa8U-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="748" y="721.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-49" target="jQ4vL1tOZWoRjpXtpa8U-4">
           <mxGeometry relative="1" as="geometry">
