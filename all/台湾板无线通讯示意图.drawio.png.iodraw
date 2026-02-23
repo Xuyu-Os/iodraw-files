@@ -259,8 +259,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-59" value="I2C0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="548" y="675" width="50" height="30" as="geometry" />
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-59" value="音频信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="677" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
