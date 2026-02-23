@@ -163,7 +163,7 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-42" value="矩阵模块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="778" y="877" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-44" value="三级管控制电路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-44" value="WS2812" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="778" y="912" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-46" target="jQ4vL1tOZWoRjpXtpa8U-11">
