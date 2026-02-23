@@ -81,7 +81,7 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-11" target="jQ4vL1tOZWoRjpXtpa8U-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-11" value="CW32L010F8P6&lt;br&gt;协助控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-11" value="STM32F103VCT6&lt;div&gt;协助控制器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="618" y="842" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-12" value="直流电机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
