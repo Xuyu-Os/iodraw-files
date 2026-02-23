@@ -68,12 +68,6 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-12" value="直流电机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="778" y="792" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-13" value="电量指示灯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="878" y="912" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-14" value="表情矩阵LED" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="878" y="877" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="738" y="856.8" as="sourcePoint" />
@@ -166,16 +160,8 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-40" value="电机驱动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="778" y="842" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-42" target="jQ4vL1tOZWoRjpXtpa8U-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-42" value="三级管控制电路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-42" value="矩阵模块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="778" y="877" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-44" target="jQ4vL1tOZWoRjpXtpa8U-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-44" value="三级管控制电路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="778" y="912" width="70" height="30" as="geometry" />
