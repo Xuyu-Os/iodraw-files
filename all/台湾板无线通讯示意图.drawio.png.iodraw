@@ -250,7 +250,7 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-57" value="蓝牙通讯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="618" y="672" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="538" y="701.6685714285713" as="sourcePoint" />
             <mxPoint x="618" y="701.6400000000001" as="targetPoint" />
