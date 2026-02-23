@@ -66,6 +66,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-8" target="jQ4vL1tOZWoRjpXtpa8U-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-8" value="ES&lt;span style=&quot;background-color: initial;&quot;&gt;8311&lt;/span&gt;&lt;div&gt;音频解码芯片&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237" y="672" width="120" height="100" as="geometry" />
         </mxCell>
@@ -249,15 +252,6 @@
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-57" value="无线蓝牙音频通讯模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="538" y="701.6685714285713" as="sourcePoint" />
-            <mxPoint x="618" y="701.6400000000001" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="618" y="701.6400000000001" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-59" value="音频信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="298" y="640" width="66" height="26" as="geometry" />
