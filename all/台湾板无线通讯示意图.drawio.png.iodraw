@@ -43,15 +43,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-4" target="jQ4vL1tOZWoRjpXtpa8U-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="388" y="862" />
-              <mxPoint x="388" y="862" />
-            </Array>
-            <mxPoint x="368" y="922" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-4" target="jQ4vL1tOZWoRjpXtpa8U-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -96,9 +87,6 @@
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-14" value="表情矩阵LED" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="878" y="877" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-15" value="CI13241&lt;div&gt;唤醒词学习&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="238" y="842" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -145,9 +133,6 @@
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-25" value="I2C0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="468" y="632" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-26" value="UART1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="357" y="842" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="138" y="812" as="targetPoint" />
@@ -155,15 +140,6 @@
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-29" value="音频功率放大" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="98" y="732" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jQ4vL1tOZWoRjpXtpa8U-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-33" target="jQ4vL1tOZWoRjpXtpa8U-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="138" y="872" />
-              <mxPoint x="208" y="872" />
-              <mxPoint x="208" y="862" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQ4vL1tOZWoRjpXtpa8U-33">
           <mxGeometry relative="1" as="geometry">
