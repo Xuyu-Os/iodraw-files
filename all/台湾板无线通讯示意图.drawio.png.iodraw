@@ -260,7 +260,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-59" value="音频信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="298" y="640" width="66" height="26" as="geometry" />
+          <mxGeometry x="178" y="768" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jQ4vL1tOZWoRjpXtpa8U-60" value="音频信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="292" y="525" width="66" height="26" as="geometry" />
