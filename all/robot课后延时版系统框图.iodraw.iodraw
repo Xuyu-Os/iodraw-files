@@ -152,14 +152,12 @@
             <mxPoint x="140" y="830" as="sourcePoint" />
             <mxPoint x="200" y="890" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="820" />
-              <mxPoint x="180" y="890" />
-              <mxPoint x="210" y="890" />
+              <mxPoint x="210" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-19" value="MCU_5V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
