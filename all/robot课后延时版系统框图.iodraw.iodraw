@@ -133,7 +133,12 @@
           <mxGeometry x="10" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-4" target="bYSXQzs2C2J1BxaFpOgJ-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="630" />
+              <mxPoint x="270" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-4" value="TP4056&lt;div&gt;5V / 800mA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="680" width="120" height="60" as="geometry" />
