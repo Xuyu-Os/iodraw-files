@@ -48,8 +48,14 @@
         <mxCell id="n3By_PG531nud4JGXvy2-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CI1302&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="295" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="n3By_PG531nud4JGXvy2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3By_PG531nud4JGXvy2-20" target="n3By_PG531nud4JGXvy2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n3By_PG531nud4JGXvy2-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模拟按键*3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n3By_PG531nud4JGXvy2-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="208" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
