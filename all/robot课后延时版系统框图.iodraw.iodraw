@@ -166,10 +166,10 @@
           <mxGeometry x="210" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-20" value="&lt;span style=&quot;color: rgba(9, 9, 10, 0.92); font-family: &amp;quot;PingFang SC&amp;quot;; font-size: 14px; font-weight: 600; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;CW32L011K8U6&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CI1302&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
