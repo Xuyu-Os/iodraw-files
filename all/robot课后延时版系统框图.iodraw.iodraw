@@ -63,6 +63,12 @@
         <mxCell id="n3By_PG531nud4JGXvy2-25" value="SPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="380" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="n3By_PG531nud4JGXvy2-26" value="ADC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n3By_PG531nud4JGXvy2-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="398" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
