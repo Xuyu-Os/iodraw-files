@@ -38,6 +38,9 @@
         <mxCell id="n3By_PG531nud4JGXvy2-12" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3By_PG531nud4JGXvy2-16" target="n3By_PG531nud4JGXvy2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n3By_PG531nud4JGXvy2-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;红外对管*2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="210" width="120" height="30" as="geometry" />
         </mxCell>
@@ -64,10 +67,10 @@
           <mxGeometry x="540" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n3By_PG531nud4JGXvy2-22" value="外部中断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="255" y="200" width="70" height="30" as="geometry" />
+          <mxGeometry x="270" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3By_PG531nud4JGXvy2-24" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3By_PG531nud4JGXvy2-25" value="SPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="380" width="40" height="30" as="geometry" />
