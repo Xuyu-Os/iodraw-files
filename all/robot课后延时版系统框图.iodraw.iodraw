@@ -121,11 +121,14 @@
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-1" target="bYSXQzs2C2J1BxaFpOgJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-1" target="bYSXQzs2C2J1BxaFpOgJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-1" value="3.7V单节锂电池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-4" value="TP4056&lt;div&gt;5V / 800mA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-6" target="n3By_PG531nud4JGXvy2-1">
           <mxGeometry relative="1" as="geometry" />
@@ -135,6 +138,9 @@
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-8" value="ADC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-16" value="3.7V单节锂电池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
