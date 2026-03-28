@@ -48,8 +48,8 @@
         <mxCell id="n3By_PG531nud4JGXvy2-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;CI1302&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="295" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n3By_PG531nud4JGXvy2-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;BDR6120H*2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="390" width="120" height="50" as="geometry" />
+        <mxCell id="n3By_PG531nud4JGXvy2-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;模拟按键*3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
