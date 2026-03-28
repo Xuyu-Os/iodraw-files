@@ -62,10 +62,10 @@
           <mxGeometry x="540" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n3By_PG531nud4JGXvy2-22" value="外部中断" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="210" width="70" height="30" as="geometry" />
+          <mxGeometry x="255" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3By_PG531nud4JGXvy2-24" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="298" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3By_PG531nud4JGXvy2-25" value="SPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="380" width="40" height="30" as="geometry" />
@@ -125,8 +125,7 @@
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-6" target="n3By_PG531nud4JGXvy2-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="353" />
-              <mxPoint x="300" y="353" />
+              <mxPoint x="200" y="353" />
             </Array>
           </mxGeometry>
         </mxCell>
