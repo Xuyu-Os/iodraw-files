@@ -127,7 +127,7 @@
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-4" value="TP4056&lt;div&gt;5V / 1A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-6" target="n3By_PG531nud4JGXvy2-1">
+        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.252;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-6" target="n3By_PG531nud4JGXvy2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电量检测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
