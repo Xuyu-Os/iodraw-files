@@ -122,7 +122,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-1" target="bYSXQzs2C2J1BxaFpOgJ-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="820" />
+              <mxPoint x="180" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-1" value="3.7V单节锂电池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="790" width="120" height="60" as="geometry" />
@@ -139,7 +144,7 @@
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-8" value="ADC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="280" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-16" value="3.7V单节锂电池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-16" value="MCU_5V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
