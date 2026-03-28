@@ -119,7 +119,7 @@
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-1" value="3.7V单节锂电池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-4" value="TP4056" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bYSXQzs2C2J1BxaFpOgJ-4" value="TP4056&lt;div&gt;5V / 1A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bYSXQzs2C2J1BxaFpOgJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bYSXQzs2C2J1BxaFpOgJ-6" target="n3By_PG531nud4JGXvy2-1">
