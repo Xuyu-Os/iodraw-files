@@ -44,7 +44,7 @@
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-10" target="EhJnOl3nyGyuJ6UajCqA-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EhJnOl3nyGyuJ6UajCqA-10" value="外设上电，并发送开机信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-10" value="外设上电，并发送开机信号（1）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-12" target="EhJnOl3nyGyuJ6UajCqA-14">
@@ -65,8 +65,14 @@
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-18" value="接收0xFE跳出开机动画，显示默认表情" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-20" target="EhJnOl3nyGyuJ6UajCqA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-20" value="充电上电" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-25" target="EhJnOl3nyGyuJ6UajCqA-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-25" value="stm32发送版本号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
