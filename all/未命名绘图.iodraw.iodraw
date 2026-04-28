@@ -36,6 +36,9 @@
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-8" value="esp32根据串口反转确认串口引脚并确认版本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-10" target="EhJnOl3nyGyuJ6UajCqA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-10" value="外设上电，并发送开机信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -47,6 +50,9 @@
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-14" value="发送初始化成功信号（0xFF）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
