@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-1" target="EhJnOl3nyGyuJ6UajCqA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-1" target="EhJnOl3nyGyuJ6UajCqA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-2" value="开机按键按下" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
