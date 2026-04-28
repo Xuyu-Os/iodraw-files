@@ -48,7 +48,7 @@
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-12" value="确认开机信号，并确认外设初始化成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EhJnOl3nyGyuJ6UajCqA-14" value="发送初始化成功信号（0xFF）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-14" value="外设检测没有问题信号（0xFF）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-16" target="EhJnOl3nyGyuJ6UajCqA-18">
@@ -57,7 +57,7 @@
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-16" value="等待初始化成功后，锁定电源（此时可松开开机按键）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EhJnOl3nyGyuJ6UajCqA-18" value="播放开机动画，等待系统开机" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-18" value="播放开机动画，等待esp开机" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
