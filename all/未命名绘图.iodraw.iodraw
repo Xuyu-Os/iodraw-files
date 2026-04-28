@@ -65,16 +65,11 @@
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-18" value="接收0xFE跳出开机动画，显示默认表情" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EhJnOl3nyGyuJ6UajCqA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="360.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-20" value="充电上电" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EhJnOl3nyGyuJ6UajCqA-23" value="stm32发送版本号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-25" value="stm32发送版本号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
