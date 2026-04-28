@@ -39,7 +39,7 @@
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-10" value="外设上电，并发送开机信号" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EhJnOl3nyGyuJ6UajCqA-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-12" value="确认开机信号，并确认外设初始化成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
