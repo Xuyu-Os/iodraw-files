@@ -28,13 +28,18 @@
           <mxGeometry x="70" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-8" target="EhJnOl3nyGyuJ6UajCqA-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="350" />
+              <mxPoint x="230" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-8" target="EhJnOl3nyGyuJ6UajCqA-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-8" value="esp32根据串口反转确认串口引脚并确认版本" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-10" target="EhJnOl3nyGyuJ6UajCqA-16">
           <mxGeometry relative="1" as="geometry" />
@@ -46,10 +51,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-12" value="确认开机信号，并确认外设初始化成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-14" value="外设检测没有问题信号（0xFF）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-16" target="EhJnOl3nyGyuJ6UajCqA-18">
           <mxGeometry relative="1" as="geometry" />
