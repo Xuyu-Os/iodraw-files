@@ -22,10 +22,13 @@
           <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhJnOl3nyGyuJ6UajCqA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhJnOl3nyGyuJ6UajCqA-8" target="EhJnOl3nyGyuJ6UajCqA-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EhJnOl3nyGyuJ6UajCqA-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
