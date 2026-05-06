@@ -54,6 +54,9 @@
         <mxCell id="GrBcUBmKicGQDQs0DJlG-15" value="EXIT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="608" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GrBcUBmKicGQDQs0DJlG-16" value="PWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="628" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
