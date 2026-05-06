@@ -37,16 +37,16 @@
         </mxCell>
         <mxCell id="GrBcUBmKicGQDQs0DJlG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrBcUBmKicGQDQs0DJlG-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="760" as="targetPoint" />
+            <mxPoint x="380" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GrBcUBmKicGQDQs0DJlG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrBcUBmKicGQDQs0DJlG-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="650" as="targetPoint" />
+            <mxPoint x="240" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GrBcUBmKicGQDQs0DJlG-8" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrBcUBmKicGQDQs0DJlG-13" value="编码电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="600" width="120" height="60" as="geometry" />
