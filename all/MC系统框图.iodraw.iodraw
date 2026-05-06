@@ -29,6 +29,9 @@
         <mxCell id="GrBcUBmKicGQDQs0DJlG-5" value="DMA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="448" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GrBcUBmKicGQDQs0DJlG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrBcUBmKicGQDQs0DJlG-6" target="GrBcUBmKicGQDQs0DJlG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GrBcUBmKicGQDQs0DJlG-6" value="CW32" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,6 +47,12 @@
         </mxCell>
         <mxCell id="GrBcUBmKicGQDQs0DJlG-8" value="电源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBcUBmKicGQDQs0DJlG-13" value="编码电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBcUBmKicGQDQs0DJlG-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="608" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
