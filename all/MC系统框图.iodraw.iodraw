@@ -4,14 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GrBcUBmKicGQDQs0DJlG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrBcUBmKicGQDQs0DJlG-1" target="GrBcUBmKicGQDQs0DJlG-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GrBcUBmKicGQDQs0DJlG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GrBcUBmKicGQDQs0DJlG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GrBcUBmKicGQDQs0DJlG-1" value="M5-core2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="120" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="GrBcUBmKicGQDQs0DJlG-2" value="M5-core2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="440" width="120" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
