@@ -124,8 +124,8 @@
         <mxCell id="j-VelAee_YNKFAN7IFXV-8" value="MOTOR_MV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="870" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j-VelAee_YNKFAN7IFXV-9" value="MOTOR_MV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1000" width="90" height="30" as="geometry" />
+        <mxCell id="j-VelAee_YNKFAN7IFXV-9" value="VCC_5V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1000" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
