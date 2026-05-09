@@ -101,8 +101,8 @@
         <mxCell id="j-VelAee_YNKFAN7IFXV-1" value="7.4V&lt;div&gt;1200mAh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-VelAee_YNKFAN7IFXV-2" value="7.4V&lt;div&gt;1200mAh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="j-VelAee_YNKFAN7IFXV-2" value="TPS564201&lt;div&gt;6.5V / 4A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
