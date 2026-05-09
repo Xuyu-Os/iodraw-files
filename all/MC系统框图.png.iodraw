@@ -137,10 +137,10 @@
           <mxGeometry x="660" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-14" value="esp32&lt;div&gt;200mA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-16" value="stm32&lt;div&gt;200mA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
