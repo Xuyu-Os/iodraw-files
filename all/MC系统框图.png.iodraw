@@ -125,7 +125,7 @@
           <mxGeometry x="660" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-12" value="TPS563201&lt;div&gt;5V / 3A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
