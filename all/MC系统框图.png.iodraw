@@ -112,6 +112,9 @@
         <mxCell id="j-VelAee_YNKFAN7IFXV-2" value="TPS564201&lt;div&gt;6.5V / 4A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j-VelAee_YNKFAN7IFXV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-4" target="j-VelAee_YNKFAN7IFXV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-4" value="TPS563201&lt;div&gt;5V / 3A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
@@ -119,7 +122,7 @@
           <mxGeometry x="545" y="870" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-9" value="VCC_5V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1000" width="70" height="30" as="geometry" />
+          <mxGeometry x="555" y="970" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-11" value="BDR6120H&lt;div&gt;1.5A * 2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="870" width="120" height="60" as="geometry" />
