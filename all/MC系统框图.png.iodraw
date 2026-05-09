@@ -142,6 +142,9 @@
         <mxCell id="j-VelAee_YNKFAN7IFXV-16" value="stm32&lt;div&gt;200mA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j-VelAee_YNKFAN7IFXV-18" value="MCU_3.3V&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="993" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
