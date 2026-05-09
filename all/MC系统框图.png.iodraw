@@ -101,8 +101,9 @@
         <mxCell id="j-VelAee_YNKFAN7IFXV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-1" target="j-VelAee_YNKFAN7IFXV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j-VelAee_YNKFAN7IFXV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-1" target="j-VelAee_YNKFAN7IFXV-6">
+        <mxCell id="j-VelAee_YNKFAN7IFXV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1159.9999999999998" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="1030" />
               <mxPoint x="340" y="1160" />
@@ -117,9 +118,6 @@
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-4" value="TPS563201&lt;div&gt;5V / 3A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="1000" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j-VelAee_YNKFAN7IFXV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-8" value="MOTOR_MV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="870" width="90" height="30" as="geometry" />
