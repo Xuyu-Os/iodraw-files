@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9JXCVzDmN3mEXvSow-3U">
-    <mxGraphModel dx="228" dy="124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,6 +157,9 @@
         <mxCell id="j-VelAee_YNKFAN7IFXV-18" value="MCU_3.3V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="1200" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="j-VelAee_YNKFAN7IFXV-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-20" target="j-VelAee_YNKFAN7IFXV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-20" value="WS2812&lt;div&gt;100mA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -166,17 +169,8 @@
         <mxCell id="j-VelAee_YNKFAN7IFXV-26" value="编码器&lt;div&gt;100mA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j-VelAee_YNKFAN7IFXV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.988;exitY=0.437;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-12" target="j-VelAee_YNKFAN7IFXV-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="1040" as="sourcePoint" />
-            <mxPoint x="1020" y="1040" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="782" y="1026" />
-              <mxPoint x="782" y="1030" />
-              <mxPoint x="900" y="1030" />
-              <mxPoint x="900" y="950" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="j-VelAee_YNKFAN7IFXV-30" value="WS2812&lt;div&gt;100mA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
