@@ -90,14 +90,16 @@
         <mxCell id="GrBcUBmKicGQDQs0DJlG-24" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="665" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j-VelAee_YNKFAN7IFXV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-1" target="j-VelAee_YNKFAN7IFXV-4">
+        <mxCell id="j-VelAee_YNKFAN7IFXV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-1" target="j-VelAee_YNKFAN7IFXV-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="1030" />
               <mxPoint x="340" y="900" />
-              <mxPoint x="425" y="900" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j-VelAee_YNKFAN7IFXV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-1" target="j-VelAee_YNKFAN7IFXV-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-1" value="7.4V&lt;div&gt;1200mAh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1000" width="120" height="60" as="geometry" />
