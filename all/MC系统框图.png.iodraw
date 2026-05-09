@@ -91,13 +91,18 @@
           <mxGeometry x="665" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j-VelAee_YNKFAN7IFXV-1" target="j-VelAee_YNKFAN7IFXV-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="1030" />
+              <mxPoint x="340" y="900" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-1" value="7.4V&lt;div&gt;1200mAh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-VelAee_YNKFAN7IFXV-2" value="7.4V&lt;div&gt;1200mAh&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
